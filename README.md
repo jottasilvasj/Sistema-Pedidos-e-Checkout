@@ -297,7 +297,7 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 **João Silva** (jottasilvasj)
 
 - GitHub: [@jottasilvasj](https://github.com/jottasilvasj)
-- Email: jottasilvasj@email.com
+- Email: sdj.joaopedro@gmail.com
 
 ---
 
