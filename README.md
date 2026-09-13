@@ -37,7 +37,7 @@ Um sistema completo de gerenciamento de pedidos e processamento de checkout dese
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/jottasilvasj/SIstema-Pedidos-e-Checkout.git
+git clone https://github.com/jottasilvasj/Sistema-Pedidos-e-Checkout.git
 cd SIstema-Pedidos-e-Checkout
 ```
 
